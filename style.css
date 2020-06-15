@@ -1,0 +1,393 @@
+body {
+  background: #ffe8ef;
+}
+div {
+  background: pink;
+  margin: 20px;
+}
+.bgc1 {
+  background: #ff7878;
+  position: absolute;
+  left: 0px;
+  top: -20px;
+  width: 500px;
+  height: 530px;
+}
+.bgc2 {
+  background: #ffe3f9;
+  position: absolute;
+  left: 20px;
+  top: 0px;
+  width: 460px;
+  height: 490px;
+}
+.r1 {
+  position: absolute;
+  left: 160px;
+  top: 20px;
+  width: 100px;
+  height: 100px;
+  border-radius: 0 150%;
+}
+.r21 {
+  position: absolute;
+  left: 320px;
+  top: 10px;
+  height: 120px;
+  width: 30px;
+  background: pink;
+  border-radius: 100% 0 0 100% / 50% 0 0 50%;
+}
+.r22 {
+  position: absolute;
+  left: 350px;
+  top: 10px;
+  height: 130px;
+  width: 30px;
+  background: pink;
+  border-radius: 0 100% 100% 0 / 0 50% 50% 0;
+}
+.r3 {
+  position: absolute;
+  left: 210px;
+  top: 100px;
+  height: 150px;
+  width: 180px;
+  background: pink;
+  border-radius: 50%;
+}
+.r41 {
+  position: absolute;
+  left: 300px;
+  top: 160px;
+  height: 25px;
+  width: 30px;
+  background: black;
+  border-radius: 50% 50% 40% 40%;
+}
+.r42 {
+  position: absolute;
+  left: 300px;
+  top: 165px;
+  height: 10px;
+  width: 12px;
+  background: white;
+  border-radius: 50% 50% 40% 40%;
+}
+.r43 {
+  position: absolute;
+  left: 230px;
+  top: 162px;
+  height: 23px;
+  width: 25px;
+  background: black;
+  border-radius: 50% 50% 40% 40%;
+}
+.r44 {
+  position: absolute;
+  left: 230px;
+  top: 167px;
+  height: 9px;
+  width: 11px;
+  background: white;
+  border-radius: 50% 50% 40% 40%;
+}
+.r51 {
+  position: absolute;
+  left: 220px;
+  top: 230px;
+  height: 250px;
+  width: 200px;
+  background: pink;
+  border-radius: 60% 60% 50% 50%;
+}
+.r6 {
+  position: absolute;
+  left: 230px;
+  top: 280px;
+  height: 50px;
+  width: 120px;
+  background: #ffa8a8;
+  border-radius: 100% 15%;
+}
+.r7 {
+  position: absolute;
+  left: 185px;
+  top: 285px;
+  height: 45px;
+  width: 70px;
+  background: #ffa8a8;
+  border-radius: 100% 15%;
+}
+.r8 {
+  position: absolute;
+  left: 410px;
+  top: 425px;
+  height: 50px;
+  width: 40px;
+  background: pink;
+  border-radius: 100% 30%;
+}
+.r9 {
+  position: absolute;
+  left: 320px;
+  top: 300px;
+  height: 180px;
+  width: 120px;
+  background: #ffa8a8;
+  border-radius: 100% 100% 90% 80%;
+}
+.r10 {
+  position: absolute;
+  left: 300px;
+  top: 450px;
+  height: 35px;
+  width: 120px;
+  background: #ffa8a8;
+  border-radius: 100% 100% 20% 20%;
+}
+.r11 {
+  position: absolute;
+  left: 200px;
+  top: 300px;
+  height: 180px;
+  width: 120px;
+  background: #ffa8a8;
+  border-radius: 100% 100% 30% 80%;
+}
+.r12 {
+  position: absolute;
+  left: 190px;
+  top: 455px;
+  height: 30px;
+  width: 120px;
+  background: #ffa8a8;
+  border-radius: 100% 100% 0 20%;
+}
+.r13 {
+  position: absolute;
+  left: 255px;
+  top: 188px;
+  height: 0px;
+  width: 0px;
+  background: transparent;
+  border-top: 12px solid #ffa8a8;
+  border-right: 20px solid transparent;
+  border-bottom: 0px solid yellow;
+  border-left: 15px solid transparent;
+}
+.b1 {
+  position: absolute;
+  left: 130px;
+  top: 295px;
+  height: 30px;
+  width: 150px;
+  background: #ebebeb;
+  border-radius: 100%;
+}
+.b2 {
+  position: absolute;
+  left: 155px;
+  top: 265px;
+  height: 40px;
+  width: 100px;
+  background: #f7ffa3;
+}
+.b3 {
+  position: absolute;
+  left: 155px;
+  top: 250px;
+  height: 30px;
+  width: 100px;
+  background: #fbffd6;
+  border-radius: 40%;
+}
+.b4 {
+  position: absolute;
+  left: 155px;
+  top: 285px;
+  height: 30px;
+  width: 100px;
+  background: #f7ffa3;
+  border-radius: 40%;
+}
+.b5 {
+  position: absolute;
+  left: 200px;
+  top: 232px;
+  height: 35px;
+  width: 7px;
+  background: #ff2146;
+}
+.b6 {
+  position: absolute;
+  left: 199px;
+  top: 218px;
+  height: 9px;
+  width: 9px;
+  background: #ffbe30;
+  border-radius: 50%;
+}
+.b61 {
+  position: absolute;
+  left: 199px;
+  top: 211px;
+  height: 0px;
+  width: 0px;
+  background: transparent;
+  border-top: 0px solid yellow;
+  border-right: 4px solid transparent;
+  border-bottom: 11px solid #ffbe30;
+  border-left: 5px solid transparent;
+}
+.e1 {
+  position: absolute;
+  left: 200px;
+  top: 65px;
+  width: 50px;
+  height: 50px;
+  background: #ffa8a8;
+  border-radius: 0 150%;
+}
+.e2 {
+  position: absolute;
+  left: 310px;
+  top: 25px;
+  height: 80px;
+  width: 20px;
+  background: #ffa8a8;
+  border-radius: 100% 0 0 100% / 50% 0 0 50%;
+}
+.e3 {
+  position: absolute;
+  left: 330px;
+  top: 25px;
+  height: 80px;
+  width: 15px;
+  background: #ffa8a8;
+  border-radius: 0 100% 100% 0 / 0 50% 50% 0;
+}
+.f1 {
+  position: absolute;
+  left: 318px;
+  top: 181px;
+  height: 14px;
+  width: 30px;
+  background: #ff75a6;
+  border-radius: 50%;
+}
+.f2 {
+  position: absolute;
+  left: 213px;
+  top: 181px;
+  height: 13px;
+  width: 27px;
+  background: #ff75a6;
+  border-radius: 50%;
+}
+.m1 {
+  position: absolute;
+  left: 245px;
+  top: 195px;
+  height: 20px;
+  width: 25px;
+  background: #ff7094;
+  border-radius: 50%;
+}
+.m2 {
+  position: absolute;
+  left: 246px;
+  top: 194px;
+  height: 19px;
+  width: 24px;
+  background: pink;
+  border-radius: 50%;
+}
+.m3 {
+  position: absolute;
+  left: 270px;
+  top: 195px;
+  height: 23px;
+  width: 33px;
+  background: #ff7094;
+  border-radius: 50%;
+}
+.m4 {
+  position: absolute;
+  left: 271px;
+  top: 194px;
+  height: 22px;
+  width: 31px;
+  background: pink;
+  border-radius: 50%;
+}
+.T1 {
+  position: absolute;
+  left: 73px;
+  top: 168px;
+  font-family: 微軟正黑體;
+  background: transparent;
+  font-size: 30px;
+  color: #fa2057;
+  font-weight: 400;
+}
+.T2 {
+  position: absolute;
+  left: 73px;
+  top: 206px;
+  font-family: 微軟正黑體;
+  background: transparent;
+  font-size: 30px;
+  color: #fa2057;
+  font-weight: 400;
+}
+.T3 {
+  position: absolute;
+  left: 73px;
+  top: 245px;
+  font-family: 微軟正黑體;
+  background: transparent;
+  font-size: 30px;
+  color: #fa2057;
+  font-weight: 400;
+}
+.T4 {
+  position: absolute;
+  left: 73px;
+  top: 285px;
+  font-family: 微軟正黑體;
+  background: transparent;
+  font-size: 30px;
+  color: #fa2057;
+  font-weight: 400;
+}
+.T5 {
+  position: absolute;
+  left: 50px;
+  top: 70px;
+  font-family: 微軟正黑體;
+  background: transparent;
+  font-size: 80px;
+  color: #fa2057;
+  font-weight: 600;
+}
+.T6 {
+  position: absolute;
+  left: 73px;
+  top: 325px;
+  font-family: 微軟正黑體;
+  background: transparent;
+  font-size: 30px;
+  color: #fa2057;
+  font-weight: 400;
+}
+.t1 {
+  position: absolute;
+  left: 372px;
+  top: 490px;
+  font-family: 微軟正黑體;
+  background: transparent;
+  font-size: 15px;
+  color: #ffe3f9;
+  font-weight: 400;
+}
